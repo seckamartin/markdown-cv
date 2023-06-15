@@ -62,6 +62,9 @@ __Oracle__, __MySQL__, ElasticSearch / OpenSearch
 `Versioning systems`
 __Git__, __Perforce__, SVN
 
+`IDEs`
+__IntelliJ IDEA__, NetBeans, Eclipse
+
 ## Other abilities
 Driving license category B
 
