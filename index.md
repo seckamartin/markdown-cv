@@ -2,90 +2,71 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Curriculum Vitae
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## Personal information
 
+`Name` Ing. Martin Sečka
 
-## Currently
+`Date of birth` 8.9. 1987
 
-Standing on the shoulders of giants
+`Home address` Táborská 122, Brno, 615 00
 
-### Specialized in
+`Phone` +420 725 309 807
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`E-mail` secka.martin@gmail.com
 
+`Marital status` Married
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+`Nationality` Czech
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010 - 2012`
+__Brno University of Technology__ Faculty of Information Technology, Master's Degree Program, Bioinformatics and Biocomputing
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2007 – 2010`
+__Brno University of Technology__ Faculty of Information Technology, Bachelor Degree Program, Information Technology
 
-- Sizar
+`1999 – 2007`
+__Purkyňovo Gymnázium Strážnice__
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Practice
 
-- Fellow
+`2014 - now`
+__NetSuite / Oracle__ Software engineer
 
+`2012 – 2013`
+__Sherwood Media s.r.o.__ Web applications and software programmer - PHP5 (Nette) / MySQL
 
+`2012 – 2013`
+__WebSeller s.r.o.__ PHP programmer, HTML and CSS coder
 
-## Awards
+`before year 2011`
+__Work on my own web projects__ PHP programmer, HTML and CSS coder, graphic designer
 
-`2012`
-President, *Royal Society*, London, UK
+### Languages
 
-Associate, *French Academy of Science*, Paris, France
+`English` advanced, active knowledge
 
+`German` passive knowledge
 
+## Technologies
 
-## Publications
+`Programming languages`
+__JAVA__, __Typescript__, __PHP__, Javascript, C, C++, XHTML, CSS
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`Database systems`
+__Oracle__, __MySQL__, ElasticSearch / OpenSearch
 
-### Journals
+`Versioning systems`
+__Git__, __Perforce__, SVN
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+## Other abilities
+Driving license category B
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2023 -->
 
 
