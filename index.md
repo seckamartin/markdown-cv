@@ -45,7 +45,7 @@ __WebSeller s.r.o.__ PHP programmer, HTML and CSS coder
 `before year 2011`
 __Work on my own web projects__ PHP programmer, HTML and CSS coder, graphic designer
 
-### Languages
+## Languages
 
 `English` advanced, active knowledge
 
