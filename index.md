@@ -31,7 +31,7 @@ __Brno University of Technology__ Faculty of Information Technology, Bachelor De
 `1999 – 2007`
 __Purkyňovo Gymnázium Strážnice__
 
-## Practice
+## Work experience
 
 `2016 - now`
 __NetSuite / Oracle__ Senior Software engineer.
