@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Martin Sečka's CV
 ---
 # Curriculum Vitae
 
