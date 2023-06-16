@@ -10,13 +10,11 @@ title: Martin Sečka's CV
 
 `Date of birth` 8.9. 1987
 
-`Home address` Táborská 122, Brno, 615 00
+`Location` Brno, Czech republic
 
 `Phone` +420 725 309 807
 
 `E-mail` secka.martin@gmail.com
-
-`Marital status` Married
 
 `Nationality` Czech
 
