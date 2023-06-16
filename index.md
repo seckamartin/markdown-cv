@@ -42,7 +42,7 @@ __NetSuite__ Software engineer
 - Development of record customizations 
 - Work on Financial part of ERP system
 
-`2012 – 2013`
+`2013 – 2014`
 __Sherwood Media s.r.o.__ Web applications and software programmer - PHP5 (Nette) / MySQL
 
 `2012 – 2013`
