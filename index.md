@@ -33,8 +33,16 @@ __Purkyňovo Gymnázium Strážnice__
 
 ## Practice
 
-`2014 - now`
-__NetSuite / Oracle__ Software engineer
+`2016 - now`
+__NetSuite / Oracle__ Senior Software engineer.
+- Work on Financial part of ERP system
+- Development of UI components in Oracle JET (Preact)
+- Architecture and development of global search for objects in the system
+
+`2014 - 2016`
+__NetSuite__ Software engineer
+- Development of record customizations 
+- Work on Financial part of ERP system
 
 `2012 – 2013`
 __Sherwood Media s.r.o.__ Web applications and software programmer - PHP5 (Nette) / MySQL
