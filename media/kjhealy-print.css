@@ -32,7 +32,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+    list-style: inside circle;
 }
 blockquote, q {
 	quotes: none;
@@ -77,15 +77,14 @@ code {
 
 p code {
 	position: absolute;
-	left: -120px;
-    width: 100px;
+	left: -220px;
+    width: 160px;
 }
 
 
 ul { 
 	position: relative;
-	left: 28%;
-	width: 65%;
+	left: 400px;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
@@ -138,7 +137,7 @@ h2 {
 	position: relative;
 	top: 1.2em;
 	text-align: right;
-	width: 260px;
+	width: 150px;
 }
 
 
