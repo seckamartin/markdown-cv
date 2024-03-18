@@ -33,6 +33,7 @@ __Purkyňovo Gymnázium Strážnice__
 
 `2016 - now`
 __NetSuite / Oracle__ Senior Software engineer.
+- Architecture of various features (ensuring consistency in how objects are presented across the UI, fulltext searching in lists)
 - Architecture and development of global search for objects in the system
 - Development of UI components in Oracle JET (Preact)
 - Work on Financial part of ERP system
